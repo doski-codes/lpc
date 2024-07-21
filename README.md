@@ -1,1 +1,3 @@
-# lpc
+# LPC Training
+
+Training material
